@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/drive/folders/1dRYQxoTwSKY8XgYN86dGSQye6dMDj3Wp?usp=sharing)
+- 📄 Know about my experiences [CV]([https://drive.google.com/drive/folders/1dRYQxoTwSKY8XgYN86dGSQye6dMDj3Wp?usp=sharing](https://docs.google.com/document/d/1nL01GZjDENnJ3NZ_F9kTuugmDKY7eNmB9epMeWxpJL0/edit?usp=sharing))
 
 - ⚡ Fun fact **I love reading & playing by programming on the keyboard 😄**
 
